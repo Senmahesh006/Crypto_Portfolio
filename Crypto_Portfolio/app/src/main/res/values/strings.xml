@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Crypto_Portfolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Home_blank_fragment">Home blank fragment</string>
+    <string name="market_blank_fragment">Market blank fragment</string>
+    <string name="watchlist_blank_fragment">WatchList blank fragment</string>
+    <string name="not_found">Not Found Any data</string>
+    <string name="search_hint">search Crypto currency</string>
+    <string name="empty_watchlist">WatchList is Empty</string>
+    <string name="_15m"> 15 </string>
+    <string name="_1h">1 Hour</string>
+    <string name="_4h">4 Hour</string>
+    <string name="_1d">1 day</string>
+    <string name="_1w">1 week</string>
+    <string name="_1m">1 Min</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
